@@ -1,16 +1,16 @@
 # Microsoft Innovation Lab
 
-<img src="Mlab_website/images/Mlab_logo_black.jpg" alt="logo" width="100px" height="90px"><br/>
+<img src="images/Mlab_logo_black.jpg" alt="logo" width="100px" height="90px"><br/>
  We are a student community dedicated to cultivating the spirit of research and innovation in budding engineers.<br/>
 [Microsoft Innovation Labs](https://mlabpesu.azurewebsites.net/)
 
-The Microsoft Innovation lab of PES University brings together students interested in technology and applied sciences and helps them implement their ideas. It’s a platform where students are provided numerous learning opportunities which allow them to push the boundaries of technical research and build innovative products for the masses. The club's activities include an annual summer internship, a roadshow, an ideathon (Incito), a hackathon (#Code) and other hands-on workshops. Members are recruited through the summer internship. 
+The Microsoft Innovation lab of PES University brings together students interested in technology and applied sciences and helps them implement their ideas. It’s a platform where students are provided numerous learning opportunities which allow them to push the boundaries of technical research and build innovative products for the masses. The club's activities include an annual summer internship, a roadshow, an ideathon (Incito), a hackathon (#Code) and other hands-on workshops. Members are recruited through the summer internship.
 
 # Events
 
 Summer internship Program
 ---
-We at Microsoft Innovation Lab organise an annual summer internship where we work on cutting edge projects in the domains of Robotics, Machine Learning, Artificial Intelligence, Sensor Networks, Virtual Reality, Brain-Computer Interface and App Development. The results and demos of these projects are presented at Roadshow, an event attended by a large number of students from all the engineering disciplines at PES university. 
+We at Microsoft Innovation Lab organise an annual summer internship where we work on cutting edge projects in the domains of Robotics, Machine Learning, Artificial Intelligence, Sensor Networks, Virtual Reality, Brain-Computer Interface and App Development. The results and demos of these projects are presented at Roadshow, an event attended by a large number of students from all the engineering disciplines at PES university.
 
 
 HashCode
@@ -30,12 +30,11 @@ Incito is the Ideathon organized by Microsoft Lab. It is a conglomerate of brill
 # Getting your dev env setup.
 
 1. Clone the repository after forking with `git clone https://github.com/yourusername/Mlab_website.git`
-2. `cd Mlab_website`
-3. Start xampp/lampp services with 
+2. Start xampp/lampp services with
    `sudo /opt/lampp/lampp start`
-4. Copy website to htdocs folder with
+3. Copy website to htdocs folder with
    `sudo cp -r Mlab_website /opt/lampp/htdocs/`
-5. Access website from localhost `http://localhost/Mlab_website/`
+4. Access website from localhost `http://localhost/Mlab_website/`
 
 Faculty Head
 -----
@@ -46,4 +45,5 @@ Dr. A Srinivas (Founder) <br/>
 Contact
 -----
 email : pes.mlab@gmail.com <br/>
-Website : https://mlabpesu.azurewebsites.net/
+Website : https://mlabpesu.azurewebsites.net/ <br/>
+For testing master (frontend only): https://microsoftmobileinnovationlab.github.io/Mlab_website/
