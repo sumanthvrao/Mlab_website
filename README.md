@@ -27,14 +27,12 @@ Incito
 -----
 Incito is the Ideathon organized by Microsoft Lab. It is a conglomerate of brilliant minds, incubating innovative ideas. The shortlisted 10 best ideas battle it out in the final round to win cash prizes upto Rs.10,000 in all. The participants test the design and feasibility of their ideas without having to implement the same, hence encouraging innovative thinking. The best ideas are also provided with the platform and resources to implement their projects and bring their ideas to life.
 
-# Getting your dev env setup.
+# Getting your development environment setup :
 
 1. Clone the repository after forking with `git clone https://github.com/yourusername/Mlab_website.git`
-2. Start xampp/lampp services with
-   `sudo /opt/lampp/lampp start`
-3. Copy website to htdocs folder with
-   `sudo cp -r Mlab_website /opt/lampp/htdocs/`
-4. Access website from localhost `http://localhost/Mlab_website/`
+2. Run a HTTP server from within the directory using python3, xampp or any other utility.
+Example: ```python3 -m http.server 8080```
+3. Access website from `http://localhost:port` where `port` is the listening port of your http server.
 
 Faculty Head
 -----
