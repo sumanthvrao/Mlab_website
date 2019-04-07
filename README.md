@@ -1,6 +1,6 @@
 # Microsoft Innovation Lab
 
-<img src="images/Mlab_logo_black.jpg" alt="logo" width="100px" height="90px"><br/>
+<img src="images/Mlab_logo_white.jpg" alt="logo" width="100px" height="90px"><br/>
  We are a student community dedicated to cultivating the spirit of research and innovation in budding engineers.<br/>
 [Microsoft Innovation Labs](https://mlabpesu.azurewebsites.net/)
 
