@@ -26,15 +26,23 @@ An Innovation Expo organized by Microsoft Lab each year after the Summer Interns
 Incito
 -----
 Incito is the Ideathon organized by Microsoft Lab. It is a conglomerate of brilliant minds, incubating innovative ideas. The shortlisted 10 best ideas battle it out in the final round to win cash prizes upto Rs.10,000 in all. The participants test the design and feasibility of their ideas without having to implement the same, hence encouraging innovative thinking. The best ideas are also provided with the platform and resources to implement their projects and bring their ideas to life.
+# Development
 
-# Getting your development environment setup :
+## Getting your development environment setup :
 
 1. Clone the repository after forking with `git clone https://github.com/yourusername/Mlab_website.git`
 2. Run a HTTP server from within the directory using python3, xampp or any other utility.\
 Example: ```python3 -m http.server 8080```
 3. Access website from `http://localhost:port` where `port` is the listening port of your http server.
 
-Faculty Head
+## Reviewing other PR's :
+Reviewing fellow contributor's PR's helps nurtures learning on both sides. We provided you with easy scripts in `tools/` to fetch PR's easily. You can make use of them like : \
+```
+./tools/fetch-pull-request 123
+```
+where `123` is the PR number.
+
+Faculty Head./tools/fetch-pull-request 123
 -----
 Prof. Rajasekar M <br/>
 Dr. Venkatarangan M <br/>
